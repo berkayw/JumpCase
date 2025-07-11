@@ -1,6 +1,7 @@
-JumpCase – Welfish Studio
+# JumpCase – Welfish Studio
 
 Developer: BERKAY KUŞ
+
 Engine: Unity 2023.2.20f1
 
 --------------------------------------------------
@@ -68,4 +69,4 @@ All code was written and fully understood by me.
 
 Thank you for reviewing this prototype!
 
-# JumpCase-
+
